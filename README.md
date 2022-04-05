@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 
 ⚡   He is always looking for new job opportunities to fully unleash his creativity.
 
+🔭 Currently working on **TinyML** projects using [Neuton](https://neuton.ai/) and [TensorFlow](https://www.tensorflow.org/)
 
-
-🔭 Currently working on TinyML projects using [Neuton](https://neuton.ai/) and [TensorFlow](https://www.tensorflow.org/)
-
-
-📫 You can reach Roberto on Skype (radiolondra57), on [LinkedIn](https://linkedin.com/in/radiolondra) or by [eMail](radiolondra57@gmail.com)
+📫 You can reach Roberto on **Skype**(*radiolondra57*) and on [LinkedIn](radiolondra57@gmail.com)
