@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 📫 You can reach Roberto on **Skype** (*radiolondra57*) and on [LinkedIn](https://linkedin.com/in/radiolondra)
 
-### My GitHub Stats
+### Roberto's GitHub Stats
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=radiolondra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
