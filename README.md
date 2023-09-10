@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ⚡   Ther's something magic in his code as he's able to change impossible things in something easy to do.
 
-⚡   He started creating magic more than 40 years ago with his new multitasking operating system (MT-DOS, Spectrum Spa, Defense Systems), while MS-DOS was able to run just one task at a time with difficulty. 
+⚡   He started creating magic more than 40 years ago with his new multitasking operating system (MT-DOS, Spectrum Spa, Military Defense Systems Departement), while MS-DOS was able to run just one task at a time with difficulty. 
 
 ⚡   He finds his flair (for the job and the life) pumping up Led Zeppelin, Pink Floyd, Genesis and Dire Straits long play records with his old McIntosh hi-fi amplifier, and catches (nobody knows how) *ethereal creative solutions* from music. 
 
