@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 ⚡   He is always looking for new job opportunities to fully unleash his creativity.
 
-🔭 Currently working on **TinyML** projects using [Neuton](https://neuton.ai/) and [TensorFlow](https://www.tensorflow.org/), on extensions for all browsers (Chromium, Firefox and Safari) and on MAUI apps.
-
 📫 You can reach Roberto on **Skype** (*radiolondra57*) and on [LinkedIn](https://linkedin.com/in/radiolondra)
 
 ### Roberto's GitHub Stats
