@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ⚡   He is always looking for new job opportunities to fully unleash his creativity.
 
-📫 You can reach Roberto on **Skype** (*radiolondra57*) and on [LinkedIn](https://linkedin.com/in/radiolondra)
+📫 You can reach Roberto on [LinkedIn](https://linkedin.com/in/radiolondra)
 
 ### Roberto's GitHub Stats
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=radiolondra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
